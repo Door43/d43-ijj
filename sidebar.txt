@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ijj:home|Door43 (ijj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ijj|d43-ijj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ijj/archive/master.zip|d43-ijj.zip]]
+
+**Recent Changes**
+{{changes>ns = ijj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ijj|Ethnologue data]]
+
